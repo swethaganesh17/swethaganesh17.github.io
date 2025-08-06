@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications and Preprints
 
-Publications can also be found in my Google Scholar: https://scholar.google.com/citations?user=-Crvn3cAAAAJ&hl=en
+Publications can also be found in my [Google Scholar](https://scholar.google.com/citations?user=-Crvn3cAAAAJ&hl=en)
 
 ### A/A* Conference Proceedings
 
