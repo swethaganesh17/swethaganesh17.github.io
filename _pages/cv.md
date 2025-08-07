@@ -37,8 +37,8 @@ redirect_from:
 *BS-MS, Mathematics Major with Biology Minor*  
 **Advisor:** Prof. Sumit Mohanty  
 **Thesis:** *Laplacian Matrix and Characteristic Vertices of Weighted Trees*  
-**Dates:** 08/2015 – 08/2020\
-*Supported by Inspire Scholarship for Higher Education (SHE), Aug 2015 - Jan 2025*
+**Dates:** 08/2015 – 07/2020\
+*Supported by Inspire Scholarship for Higher Education (SHE), Aug 2015 - Jul 2020*
 
 ---
 
