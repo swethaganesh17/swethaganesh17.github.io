@@ -9,7 +9,11 @@ Publications can also be found in my [Google Scholar](https://scholar.google.com
 
 ### A/A* Conference Proceedings
 
-- **S Ganesh**, J Chen, WU Mondal and V Aggarwal. *Order-Optimal Global Convergence of Discounted MDPs with Neural Actor-Critic.* Uncertainty in Artificial Intelligence (UAI), 2025.
+- **S Ganesh** and V Aggarwal. *Regret Analysis of Average-Reward Unichain MDPs via an Actor-Critic Approach.* Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.
+
+- Y Xu, **S Ganesh**, WU Mondal, Q Bai and V Aggarwal. *Global Convergence for Average Reward Constrained MDPs with Primal-Dual Actor Critic Algorithm.* Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.
+
+- **S Ganesh**, J Chen, WU Mondal and V Aggarwal. Order-Optimal Global Convergence for Actor-Critic with General Policy and Neural Critic Parametrization.* Uncertainty in Artificial Intelligence (UAI), 2025.
 
 - **S Ganesh**, WU Mondal and V Aggarwal. *A Sharper Global Convergence Analysis for Average Reward Reinforcement Learning via an Actor-Critic Approach.* International Conference on Machine Learning (ICML), 2025.
 
@@ -27,11 +31,10 @@ Publications can also be found in my [Google Scholar](https://scholar.google.com
 
 ### Preprints
 
-- **S Ganesh** and V Aggarwal. *Regret Analysis of Average-Reward Unichain MDPs via an Actor-Critic Approach.*
-
-- Y Xu, **S Ganesh**, WU Mondal, Q Bai and V Aggarwal. *Order-Optimal Convergence in Constrained Infinite Horizon Average Reward.*
-
 - R Deb, **S Ganesh** and S Bhatnagar. *Multi Timescale Stochastic Approximation: Stability and Convergence.*
+
+- Y Xu, **S Ganesh** and V Aggarwal. *Efficient Q-Learning and Actor-Critic Methods for Robust Average Reward Reinforcement Learning.*
+
 
 
 
