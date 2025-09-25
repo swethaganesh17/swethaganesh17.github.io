@@ -12,7 +12,7 @@ redirect_from:
 ## Experience
 
 **Purdue University, West Lafayette**  
-*Research Scholar, School of Industrial Engineering*  
+*Postdoctoral Scholar, School of Industrial Engineering*  
 **Advisor:** Prof. Vaneet Aggarwal  
 **Dates:** 02/2025 – Present
 
