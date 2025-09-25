@@ -13,7 +13,7 @@ Publications can also be found in my [Google Scholar](https://scholar.google.com
 
 - Y Xu, **S Ganesh**, WU Mondal, Q Bai and V Aggarwal. *Global Convergence for Average Reward Constrained MDPs with Primal-Dual Actor Critic Algorithm.* Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.
 
-- **S Ganesh**, J Chen, WU Mondal and V Aggarwal. Order-Optimal Global Convergence for Actor-Critic with General Policy and Neural Critic Parametrization.* Uncertainty in Artificial Intelligence (UAI), 2025.
+- **S Ganesh**, J Chen, WU Mondal and V Aggarwal. *Order-Optimal Global Convergence for Actor-Critic with General Policy and Neural Critic Parametrization.* Uncertainty in Artificial Intelligence (UAI), 2025.
 
 - **S Ganesh**, WU Mondal and V Aggarwal. *A Sharper Global Convergence Analysis for Average Reward Reinforcement Learning via an Actor-Critic Approach.* International Conference on Machine Learning (ICML), 2025.
 
