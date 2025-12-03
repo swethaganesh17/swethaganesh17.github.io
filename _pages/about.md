@@ -13,6 +13,6 @@ Hi there 👋 I am a researcher, currently focussing on Reinforcement Learning a
 
 * **December 2025:** Officially defended my PhD thesis!
 * **September 2025:** Two papers accepted to NeurIPS 2025. Update: If you are around on the 4th and 5th at Neurips, please stop by our posters!
-* **May 2025:** Two papers accepted - one at ICML and another at UAI.
-* **March 2025:** Submitted my PhD thesis.
+* **May 2025:** Two papers accepted - one at ICML and another at UAI!
+* **March 2025:** Submitted my PhD thesis!
 
