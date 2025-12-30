@@ -27,24 +27,19 @@ redirect_from:
 ## Education
 
 **Indian Institute of Science, Bengaluru**  
-*PhD, Department of Computer Science and Automation*  
-**Advisor:** Prof. Gugan Thoppe  
+*PhD and MTech (Res), Department of Computer Science and Automation*  
+**Advisor:** Dr. Gugan Thoppe  
 **Thesis:** *On Policy Gradients, Momentum, and Learning with Adversaries: Algorithms and Convergence Analysis*  
 **Dates:** 10/2020 – 02/2025\
 *Prime Minister's Research Fellow, Aug 2021 - Jan 2025*
 
 **Indian Institute of Science Education and Research, Trivandrum**  
 *BS-MS, Mathematics Major with Biology Minor*  
-**Advisor:** Prof. Sumit Mohanty  
+**Advisor:** Dr. Sumit Mohanty  
 **Thesis:** *Laplacian Matrix and Characteristic Vertices of Weighted Trees*  
 **Dates:** 08/2015 – 07/2020\
-*Supported by Inspire Scholarship for Higher Education (SHE), Aug 2015 - Jul 2020*
+*Supported by INSPIRE Scholarship for Higher Education (SHE), Aug 2015 - Jul 2020*
 
----
 
-## Coursework (Selective)
-
-- **(PhD)** Topics in Stochastic Approximation Algorithms, Computational Methods in Optimisation, Pattern Recognition and Neural Networks, Reinforcement Learning, Design and Analysis of Algorithms.
-- **(BS-MS)** Probability Theory and Stochastic Process, Control Theory, Functional Analysis, Analysis on Manifolds, Differential Geometry, Topics in Analysis, Rings and Modules.
 
 
