@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there 👋 I am a researcher focussing on Reinforcement Learning and Stochastic Optimization. Currently, I am a Postdoctoral Scholar in the School of Industrial Engineering at Purdue University, working with Prof. Vaneet Aggarwal. Prior to this, I conducted my PhD research at the Department of Computer Science and Automation, Indian Institute of Science (IISc) with the guidance of Dr. Gugan Thoppe.
+Hi there 👋 I am a researcher focussing on Reinforcement Learning and Stochastic Optimization. Currently, I am a Postdoctoral Scholar in the School of Industrial Engineering at Purdue University, working with Prof. Vaneet Aggarwal. Prior to this, I conducted my PhD research at the Department of Computer Science and Automation, Indian Institute of Science (IISc) under the guidance of Dr. Gugan Thoppe.
 
 ### News
 
