@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am currently an Assistant Professor at the Department of AI, IIT Hyderabad. Prior to this, I was a Postdoctoral Scholar in the Edwardson School of Industrial Engineering at Purdue University, working with Prof. Vaneet Aggarwal. I completed my PhD at the Department of Computer Science and Automation, Indian Institute of Science (IISc) under the guidance of Dr. Gugan Thoppe. My research interests primarily lie in reinforcement learning (or, more broadly, sequential decision-making) and stochastic optimization.
+Hello! I am currently an Assistant Professor at the Department of AI, Indian Institute of Technology, Hyderabad. Prior to this, I was a Postdoctoral Scholar in the Edwardson School of Industrial Engineering at Purdue University, working with Prof. Vaneet Aggarwal. I completed my PhD at the Department of Computer Science and Automation, Indian Institute of Science (IISc) under the guidance of Dr. Gugan Thoppe. My research interests primarily lie in reinforcement learning (or, more broadly, sequential decision-making) and stochastic optimization.
 
 ### News
 
