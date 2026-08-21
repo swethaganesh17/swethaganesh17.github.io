@@ -26,8 +26,8 @@ author:
   name             : "Swetha Ganesh"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
-  location         : "Hyderabad"
-  employer         : "Indian Institute of Technology, Hyderabad"
+  location         : #"Hyderabad"
+  employer         : "IIT-H"
   uri              : # URL
   email            : "swethag1706@gmail.com" 
 
