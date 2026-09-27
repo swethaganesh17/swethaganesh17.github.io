@@ -13,6 +13,7 @@ I am currently an Assistant Professor in the Department of Artificial Intelligen
 
 ### News
 
+* **September 2026:** Three papers accepted to NeurIPS 2026.
 * **August 2026:** Joined the Department of AI at IITH as an Assistant Professor!
 * **May 2026:** One paper accepted to UAI 2026. (Many thanks to William for presenting this poster virtually!)
 * **December 2025:** Officially defended my PhD thesis!
