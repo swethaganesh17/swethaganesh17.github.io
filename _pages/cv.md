@@ -14,12 +14,12 @@ redirect_from:
 **Purdue University, West Lafayette**  
 *Postdoctoral Scholar, School of Industrial Engineering*  
 **Advisor:** Prof. Vaneet Aggarwal  
-**Dates:** 02/2025 – Present
+**Dates:** 01/2026 – Present
 
 **Purdue University, West Lafayette**  
 *Visiting Scholar, School of Industrial Engineering*  
 **Advisor:** Prof. Vaneet Aggarwal  
-**Dates:** 08/2023 – 01/2025\
+**Dates:** 08/2023 – 12/2025\
 *Supported by Overseas Visiting Doctoral Fellowship, Aug 2023 - Jan 2025*
 
 ---
@@ -30,7 +30,7 @@ redirect_from:
 *PhD and MTech (Res), Department of Computer Science and Automation*  
 **Advisor:** Dr. Gugan Thoppe  
 **Thesis:** *On Policy Gradients, Momentum, and Learning with Adversaries: Algorithms and Convergence Analysis*  
-**Dates:** 10/2020 – 02/2025\
+**Dates:** 10/2020 – 12/2025\
 *Prime Minister's Research Fellow, Aug 2021 - Jan 2025*
 
 **Indian Institute of Science Education and Research, Trivandrum**  
