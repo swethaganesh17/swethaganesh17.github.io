@@ -41,7 +41,6 @@ Publications can also be found in my [Google Scholar](https://scholar.google.com
 
 - R Deb, **S Ganesh** and S Bhatnagar. *Multi Timescale Stochastic Approximation: Stability and Convergence.*
 
-- Y Xu, **S Ganesh** and V Aggarwal. *Efficient Q-Learning and Actor-Critic Methods for Robust Average Reward Reinforcement Learning.*
 
 
 
